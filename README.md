@@ -1,0 +1,3 @@
+Task 1: Please share only python files (.py). Do not share notebooks or zip files or any other format. Ensure that your name is mentioned in the filename. Expected format for filename is "_products.py".
+
+Task 2: This is NOT a coding task. The file shared is for a manual QC. you need to look at each row. And decide whether each subtheme is relevant to the theme, for the mentioned domain. And mark Y/N in the 'Validity' Column. Please save your responses as a csv file, with your name in the filename. Expected format for filename is "_qc_dataset.csv". 
